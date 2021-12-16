@@ -2,3 +2,4 @@ venv
 .idea
 *.bak
 .ipynb_checkpoints
+__pycache__/
