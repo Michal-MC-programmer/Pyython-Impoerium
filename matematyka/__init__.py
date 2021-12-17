@@ -1,0 +1,1 @@
+print("Jestem initem w matematyce")
